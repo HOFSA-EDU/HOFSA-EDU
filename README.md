@@ -6,7 +6,7 @@ Teacher in ICT and Founder of Masked Mobster
 
 * 🌍  I'm based in Luxembourg
 * ✉️  You can contact me at [hi@sam-hoffmann.de](mailto:hi@sam-hoffmann.de)
-* 🧠  I'm learning Ansible and liquid core dice
+* 🧠  I'm learning Ansible and how to make liquid-core dice
 * 🤝  I'm open to collaborating on Cloud providers for educational collaboration
 * ⚡  If you want some dice... let me know!
 * 🎲  Visit Masked Mobster at www.masked-mobster.lu
